@@ -1,6 +1,6 @@
 #/bin/sh
 # do NOT use this script from XBMC addons directory, it is intented for development only
-DESTDIR=~/.kodi/addons/plugin.audio.mpdc
+DESTDIR=~/.xbmc/addons/script.mpdc
 
 rm -rf ${DESTDIR}
 mkdir -p ${DESTDIR}
